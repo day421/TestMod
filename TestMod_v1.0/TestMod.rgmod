@@ -1,0 +1,32 @@
+{
+  "DisplayedName": [
+    {
+      "Key": "en",
+      "Value": "TestMod"
+    },
+    {
+      "Key": "ko",
+      "Value": "Test모드"
+    }
+  ],
+  "DisplayedDescription": [
+    {
+      "Key": "en",
+      "Value": "TestMod that add 1 new card"
+    },
+    {
+      "Key": "ko",
+      "Value": "Test모드 소울 카드 1개 추가"
+    }
+  ],
+  "Version": "1.0",
+  "Name": "TestMod",
+  "Author": "Test",
+  "WorkshopID": "",
+  "HardDependencies": [],
+  "SoftDependencies": [],
+  "Tags": [
+    "testmod"
+  ],
+  "ID": "Test.tset"
+}
